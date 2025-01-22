@@ -30,7 +30,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio_item'>
           <div className="portfolio_item_img">
-            <img src="/chucky.png" alt = ""/>
+            <img src="/chucky1.png" alt = ""/>
           </div>
           <h3>Admin Dashboard</h3>
          <div className="portfolio_item_cta">
@@ -60,7 +60,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio_item'>
           <div className="portfolio_item_img">
-          <img src="/chucky.png" alt = ""/>
+          <img src="/chucky1.png" alt = ""/>
           </div>
           <h3>this is a portfolio item title</h3>
          <div className="portfolio_item_cta">

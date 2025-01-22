@@ -20,7 +20,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio_item'>
           <div className="portfolio_item_img">
-            <img src="/mlm1.png" alt = ""/>
+            <img src="/mlm.png" alt = ""/>
           </div>
           <h3>Multi-level Marketing</h3>
          <div className="portfolio_item_cta">

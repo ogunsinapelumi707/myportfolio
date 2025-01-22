@@ -1,6 +1,6 @@
 import React from 'react'
 import './Portfolio.css'
-import img1 from "../../assets/portfolio1.jpg"
+
 const Portfolio = () => {
   return (
     <section id='portfolio'>
@@ -10,7 +10,7 @@ const Portfolio = () => {
       <div className="container portfolio_container">
         <article className='portfolio_item'>
           <div className="portfolio_item_img">
-            <img src="/real-estate.png" alt = ""/>
+            <img src="/real-estate1.png" alt = ""/>
           </div>
           <h3>Real Estate Application</h3>
          <div className="portfolio_item_cta">
@@ -20,7 +20,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio_item'>
           <div className="portfolio_item_img">
-            <img src="/mlm.png" alt = ""/>
+            <img src="/mlm1.png" alt = ""/>
           </div>
           <h3>Multi-level Marketing</h3>
          <div className="portfolio_item_cta">
@@ -40,7 +40,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio_item'>
           <div className="portfolio_item_img">
-            <img src="/redux.png" alt = ""/>
+            <img src="/redux1.png" alt = ""/>
           </div>
           <h3>Redux CRUD App</h3>
          <div className="portfolio_item_cta">
@@ -50,7 +50,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio_item'>
           <div className="portfolio_item_img">
-            <img src={img1} alt = ""/>
+            <img src="/mlm1.png" alt = ""/>
           </div>
           <h3>this is a portfolio item title</h3>
          <div className="portfolio_item_cta">
@@ -60,7 +60,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio_item'>
           <div className="portfolio_item_img">
-            <img src={img1} alt = ""/>
+          <img src="/chucky.png" alt = ""/>
           </div>
           <h3>this is a portfolio item title</h3>
          <div className="portfolio_item_cta">

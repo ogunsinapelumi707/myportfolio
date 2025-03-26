@@ -62,10 +62,10 @@ const Portfolio = () => {
           <div className="portfolio_item_img">
           <img src="/chucky1.png" alt = ""/>
           </div>
-          <h3>this is a portfolio item title</h3>
+          <h3>Blakkart</h3>
          <div className="portfolio_item_cta">
           <a href=""  className='btn'>Github</a>
-          <a href=""  className='btn btn_primary'>Live Demo</a>
+          <a href="https://blakkart-0gmw.onrender.com/"  className='btn btn_primary'>Live Demo</a>
          </div>
         </article>
        
